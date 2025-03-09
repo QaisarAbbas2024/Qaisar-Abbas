@@ -1,2 +1,4 @@
 # Qaisar-Abbas
-My personal repository.
+MS Applied Physics
+Learning and practising coding
+Python, HTML, CSS, JavaScript
