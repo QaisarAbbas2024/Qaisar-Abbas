@@ -1,5 +1,5 @@
 # Qaisar-Abbas
 MS Applied Physics,
-AI enthusiast,
-Learning and practising coding,
+AI Enthusiast,
+Learning and Practising Coding,
 Python, HTML, CSS, JavaScript
